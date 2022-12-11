@@ -5,3 +5,6 @@
 /.vs
 /f1/ProjectConfig/.vs/ProjectConfig
 /f1/ProjectConfig/PublisherApp/obj/Debug/net6.0
+/f1/ProjectConfig/PublisherApp/bin/Debug/net6.0
+/f1/ProjectConfig/PublisherApp/obj/Release/net6.0
+
