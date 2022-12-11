@@ -4,7 +4,7 @@ namespace PublisherApp
     {
         public static void Main(string[] args)
         {
-            //aolo aici a fost un baka
+            
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
