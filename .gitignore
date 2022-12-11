@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/f1/ProjectConfig/.vs/ProjectConfig
+/f1/ProjectConfig/PublisherApp/obj/Debug/net6.0
