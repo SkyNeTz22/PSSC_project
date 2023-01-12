@@ -1,0 +1,5 @@
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.csproj.AssemblyReference.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.AssemblyInfoInputs.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.AssemblyInfo.cs
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.csproj.CoreCompileInputs.cache

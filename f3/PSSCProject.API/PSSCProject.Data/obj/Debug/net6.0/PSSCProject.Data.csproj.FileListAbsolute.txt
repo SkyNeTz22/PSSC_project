@@ -1,0 +1,15 @@
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\bin\Debug\net6.0\PSSCProject.Data.deps.json
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\bin\Debug\net6.0\PSSCProject.Data.dll
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\bin\Debug\net6.0\PSSCProject.Data.pdb
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\bin\Debug\net6.0\PSSCProject.Domain.dll
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\bin\Debug\net6.0\PSSCProject.Domain.pdb
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\PSSCProject.Data.csproj.AssemblyReference.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\PSSCProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\PSSCProject.Data.AssemblyInfoInputs.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\PSSCProject.Data.AssemblyInfo.cs
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\PSSCProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\PSSCProject.Data.csproj.CopyComplete
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\PSSCProject.Data.dll
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\refint\PSSCProject.Data.dll
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\PSSCProject.Data.pdb
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Data\obj\Debug\net6.0\ref\PSSCProject.Data.dll

@@ -1,0 +1,12 @@
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\bin\Debug\net6.0\PSSCProject.Domain.deps.json
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\bin\Debug\net6.0\PSSCProject.Domain.dll
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\bin\Debug\net6.0\PSSCProject.Domain.pdb
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.csproj.AssemblyReference.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.AssemblyInfoInputs.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.AssemblyInfo.cs
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.dll
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\obj\Debug\net6.0\refint\PSSCProject.Domain.dll
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\obj\Debug\net6.0\PSSCProject.Domain.pdb
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f3\PSSCProject.API\PSSCProject.Domain\obj\Debug\net6.0\ref\PSSCProject.Domain.dll

@@ -1,0 +1,7 @@
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject\obj\Debug\net6.0\PSSCProject.csproj.AssemblyReference.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject\obj\Debug\net6.0\PSSCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject\obj\Debug\net6.0\PSSCProject.AssemblyInfoInputs.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject\obj\Debug\net6.0\PSSCProject.AssemblyInfo.cs
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject\obj\Debug\net6.0\PSSCProject.csproj.CoreCompileInputs.cache
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject\obj\Debug\net6.0\PSSCProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\skyne\OneDrive\Documents\facultate\poli_an_4\pssc\proiect\github\f2\PSSCProject\obj\Debug\net6.0\PSSCProject.MvcApplicationPartsAssemblyInfo.cache
