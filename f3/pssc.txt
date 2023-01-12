@@ -1,0 +1,23 @@
+functie 1 -> functie 2 -> parametru catre funtie 1 -> etc.
+
+
+
+Table : ProductsTable
+
+
+Consola : "Alegeti o categorie:"
+1. X
+2. Y
+3. Z
+
+ReadLine()
+
+match(1 => Tricouri
+2 => camasi
+3 => geci)
+
+match pe tip de obiect -> in functie de return plec pe un anumita metoda
+
+LM50514
+5
+5
